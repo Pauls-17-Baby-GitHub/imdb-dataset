@@ -1,2 +1,2 @@
-# imdb-datset
+# imdb-dataset
 PyTorch
